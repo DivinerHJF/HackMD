@@ -1,5 +1,8 @@
 # Collect your documents with a book
 
+[![hackmd-github-sync-badge](https://hackmd.io/EVicJXY3TrCRcVXmhesuzQ/badge)](https://hackmd.io/EVicJXY3TrCRcVXmhesuzQ)
+
+
 View the book with "<i class="fa fa-book fa-fw"></i> Book Mode".
 
 Examples
